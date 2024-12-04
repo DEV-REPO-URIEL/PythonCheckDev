@@ -8,7 +8,7 @@ django==1.11.29  # Multiple vulnerabilities, end of life
 flask==0.12.2  # Multiple vulnerabilities
 
 # Pillow with known CVEs
-pillow==6.2.0  # Multiple image processing vulnerabilities
+pillow==9.3.0  # Multiple image processing vulnerabilities
 
 # Requests with security concerns
 requests==2.20.0  # Multiple vulnerabilities

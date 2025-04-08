@@ -19,6 +19,7 @@
       "enabled": true
     }
   },
+ "leastVulnerablePackageSettings": {    "enabled": "true"  }
    "imageSettings":{
        "imageTracing":{
            "enableImageTracingPR": false,
